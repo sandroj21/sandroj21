@@ -1,8 +1,7 @@
 ### Hi! I'm Sandro Junior 👋
 
 ##
-- 🔭 I’m currently working on Colabeduc - NatalnetLabs;
-- 📚 I’m currently learning Java, Grails, Springboot and MySQL;
+- 📚 I’m currently learning Java, Grails, Springboot, React, React Native, Nodejs and MySQL;
 - 📩 Contact: sandrojrf018@gmail.com
 
 <div>
