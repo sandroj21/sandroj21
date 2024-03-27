@@ -1,7 +1,7 @@
 ### Hi! I'm Sandro Junior 👋
 
 ##
-- 📚 I’m currently learning Java, Grails, Springboot, React, React Native, Nodejs and MySQL;
+- 📚 I’m currently learning Java, Springboot, React, React Native, Nodejs and MySQL;
 - 📩 Contact: sandrojrf018@gmail.com
 
 <div>
@@ -11,10 +11,13 @@
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />      
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="50" style="max-width: 100%;">
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-original.svg" />
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="50" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50" style="max-width: 100%;">
+  
   ##
   <a href="https://github.com/sandroj21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandroj21&layout=compact">
